@@ -1,4 +1,4 @@
-class Animal:
+class Bear:
     def __init__(self, animal_name, age, how_many_dozens):
         self.name = animal_name
         self.age = age
